@@ -1,1 +1,1 @@
-I love numbers
+Betty in my first directory
